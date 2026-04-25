@@ -1,4 +1,4 @@
-#Sistema de Processamento de Transações Financeiras
+# Sistema de Processamento de Transações Financeiras
 
 ![.NET](https://img.shields.io/badge/.NET-9.0-purple) ![SQL Server](https://img.shields.io/badge/SQL_Server-2022-blue) ![Docker](https://img.shields.io/badge/Docker-Ready-lightblue) ![Tests](https://img.shields.io/badge/Tests-62%20Passing-green) ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-success)
 
